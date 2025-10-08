@@ -1,3 +1,3 @@
 # new
-to learn something new in my life
- its my first reporetory
+to learn something new in my life.
+ its my first repository
